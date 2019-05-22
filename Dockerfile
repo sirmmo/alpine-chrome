@@ -10,7 +10,7 @@ LABEL org.label-schema.build-date=$BUILD_DATE \
       org.label-schema.usage="https://github.com/Zenika/alpine-chrome/blob/master/README.md" \
       org.label-schema.vcs-url="https://github.com/Zenika/alpine-chrome" \
       org.label-schema.vcs-ref=$VCS_REF \
-      org.label-schema.vendor="Zenika" \
+      org.label-schema.vendor="sirmmo" \
       org.label-schema.version="latest"
 
 # Installs latest Chromium package.
